@@ -1,6 +1,4 @@
-# 025 Mister Panel LTR
-
-Visit my personal site : https://amirmohammad0.ir;
+# 025 Mister Panel LTR;
 
 website Portfolio Me Created With React;
 
